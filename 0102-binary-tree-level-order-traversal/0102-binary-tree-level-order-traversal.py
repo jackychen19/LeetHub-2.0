@@ -7,19 +7,23 @@
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root: return []
-        
-        queue = deque([root])
         res = []
 
+        queue = deque([root])
+
         while queue:
+            # code logic for problem
             level = []
+            levelSize = len(queue)
+
+            # bfs logic
             for i in range(len(queue)):
                 n = queue.popleft()
                 level.append(n.val)
-            
+
                 if n.left: queue.append(n.left)
-                if n.right: queue.append(n.right) 
-
+                if n.right: queue.append(n.right)
+            
             res.append(level)
-
+            
         return res
