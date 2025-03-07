@@ -103,6 +103,7 @@ npm run lint-test     Test all code is linted properly
 | [0226-invert-binary-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jackychen19/LeetHub-2.0/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -112,6 +113,7 @@ npm run lint-test     Test all code is linted properly
 | [0226-invert-binary-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jackychen19/LeetHub-2.0/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -128,6 +130,7 @@ npm run lint-test     Test all code is linted properly
 | [0226-invert-binary-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jackychen19/LeetHub-2.0/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -136,4 +139,12 @@ npm run lint-test     Test all code is linted properly
 | [0199-binary-tree-right-side-view](https://github.com/jackychen19/LeetHub-2.0/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/1544-count-good-nodes-in-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
