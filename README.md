@@ -147,4 +147,16 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0572-subtree-of-another-tree) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jackychen19/LeetHub-2.0/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jackychen19/LeetHub-2.0/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jackychen19/LeetHub-2.0/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
