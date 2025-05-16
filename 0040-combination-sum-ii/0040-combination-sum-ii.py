@@ -3,23 +3,26 @@ class Solution:
         res = []
         candidates.sort()
 
-        def dfs(i, cur, total):
+        def backtrack(start, path, total):
             if total == target:
-                res.append(cur.copy())
+                res.append(path.copy())
                 return
             
-            if i == len(candidates) or total > target:
+            if total > target:
                 return
-            
-            # include candidates[i]
-            cur.append(candidates[i])
-            dfs(i + 1, cur, total + candidates[i])
-            cur.pop()
 
-            # skip candidates
-            while i + 1 < len(candidates) and candidates[i] == candidates[i + 1]:
-                i += 1
-            dfs(i + 1, cur, total)
-        
-        dfs(0, [], 0)
+            for i in range(start, len(candidates)):
+                # skip duplicates at the same level
+                if i > start and candidates[i] == candidates[i - 1]:
+                    continue
+                
+                # prune
+                if total + candidates[i] > target:
+                    break
+                
+                path.append(candidates[i]) # add
+                backtrack(i + 1, path, total + candidates[i])
+                path.pop() # backtrack
+            
+        backtrack(0, [], 0)
         return res
