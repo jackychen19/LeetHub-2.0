@@ -151,11 +151,13 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/jackychen19/LeetHub-2.0/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/jackychen19/LeetHub-2.0/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jackychen19/LeetHub-2.0/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/jackychen19/LeetHub-2.0/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/jackychen19/LeetHub-2.0/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jackychen19/LeetHub-2.0/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
