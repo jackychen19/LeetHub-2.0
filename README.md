@@ -108,6 +108,7 @@ npm run lint-test     Test all code is linted properly
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jackychen19/LeetHub-2.0/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/jackychen19/LeetHub-2.0/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0226-invert-binary-tree) |
@@ -142,6 +143,7 @@ npm run lint-test     Test all code is linted properly
 ## String Matching
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jackychen19/LeetHub-2.0/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -153,14 +155,20 @@ npm run lint-test     Test all code is linted properly
 | [0040-combination-sum-ii](https://github.com/jackychen19/LeetHub-2.0/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jackychen19/LeetHub-2.0/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jackychen19/LeetHub-2.0/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jackychen19/LeetHub-2.0/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/jackychen19/LeetHub-2.0/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jackychen19/LeetHub-2.0/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jackychen19/LeetHub-2.0/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jackychen19/LeetHub-2.0/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/jackychen19/LeetHub-2.0/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/jackychen19/LeetHub-2.0/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
