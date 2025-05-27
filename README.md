@@ -144,6 +144,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jackychen19/LeetHub-2.0/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/jackychen19/LeetHub-2.0/tree/master/0131-palindrome-partitioning) |
 | [0572-subtree-of-another-tree](https://github.com/jackychen19/LeetHub-2.0/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -165,6 +166,7 @@ npm run lint-test     Test all code is linted properly
 | [0046-permutations](https://github.com/jackychen19/LeetHub-2.0/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jackychen19/LeetHub-2.0/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jackychen19/LeetHub-2.0/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/jackychen19/LeetHub-2.0/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,4 +175,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jackychen19/LeetHub-2.0/tree/master/0079-word-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/jackychen19/LeetHub-2.0/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
